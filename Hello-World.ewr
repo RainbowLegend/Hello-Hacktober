@@ -1,0 +1,5 @@
+sdc.imp(prnt)
+
+prnt.std.util.prnt("Hello World!")
+
+sdc.rtn
